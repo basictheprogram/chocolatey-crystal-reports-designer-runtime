@@ -9,7 +9,7 @@
     <authors>FILLIN</authors>
     <iconUrl>http://cdn.rawgit.com/basictheprogram/chocolatey-crystal-reports-designer-runtime/master/icons/crystal-reports-designer-runtime.png</iconUrl>
     <copyright>FILLIN</copyright>
-    <licenseUrl>http://cdn.rawgit.com/basictheprogram/chocolatey-crystal-reports-designer-runtime/master/tools/LICENSES.txt</licenseUrl>
+    <licenseUrl>http://cdn.rawgit.com/basictheprogram/chocolatey-crystal-reports-designer-runtime/master/tools/LICENSE.pdf</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>FILLIN</projectSourceUrl>
     <docsUrl>FILLIN</docsUrl>
