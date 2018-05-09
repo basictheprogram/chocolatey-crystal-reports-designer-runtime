@@ -2,25 +2,27 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>crystal-reports-designer-runtime</id>
-    <version>FILLIN</version>
+    <version>14.1.6.1702</version>
     <packageSourceUrl>https://github.com/basictheprogram/chocolatey-crystal-reports-designer-runtime</packageSourceUrl>
     <owners>Real Time Support</owners>
     <title>Crystal Reports Designer Runtime</title>
-    <authors>FILLIN</authors>
+    <authors>SAP</authors>
     <iconUrl>http://cdn.rawgit.com/basictheprogram/chocolatey-crystal-reports-designer-runtime/master/icons/crystal-reports-designer-runtime.png</iconUrl>
-    <copyright>FILLIN</copyright>
+    <copyright>Copyright © 2010 - 2015 SAP SE.</copyright>
     <licenseUrl>http://cdn.rawgit.com/basictheprogram/chocolatey-crystal-reports-designer-runtime/master/tools/LICENSE.pdf</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <projectSourceUrl>FILLIN</projectSourceUrl>
-    <docsUrl>FILLIN</docsUrl>
-    <mailingListUrl>FILLIN</mailingListUrl>
-    <bugTrackerUrl>FILLIN</bugTrackerUrl>
+    <projectSourceUrl>https://help.sap.com/viewer/index</projectSourceUrl>
+    <docsUrl>https://help.sap.com/viewer/p/SAP_ANALYTICS</docsUrl>
+    <mailingListUrl>https://www.sap.com/support.html</mailingListUrl>
+    <bugTrackerUrl>https://www.sap.com/support.html</bugTrackerUrl>
     <tags>Crystal Reports Designer Runtime</tags>
     <summary>Crystal Reports Designer Runtime</summary>
     <description>
-    FILLIN
+      SAP Crystal Reports 2013 (Crystal Reports) is designed to work with your database to help you analyze and interpret important 
+      information. Crystal Reports makes it easy to create simple reports, and, it also has the comprehensive tools you need to 
+      produce complex or specialized reports.
     </description>
-    <releaseNotes>FILLIN</releaseNotes>
+    <releaseNotes>https://help.sap.com/viewer/product/SAP_CRYSTAL_REPORTS/2013/en-US</releaseNotes>
 
     <!-- Specifying dependencies and version ranges? 
          https://docs.nuget.org/create/versioning#specifying-version-ranges-in-.nuspec-files 
